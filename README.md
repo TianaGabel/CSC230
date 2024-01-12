@@ -3,7 +3,9 @@ The following program can be used by saving and running the Java project. Loggin
 To view the authentication process visit http://localhost:8080/gameusers
 
 Currently, there are only 3 possible roles, which all share the same password. Each role has different view privileges
+
 Usernames: admin, user, or guest Password: password
+
 There are only 3 game users with ID numbers 1,2,3 hardcoded into the application
 
 # Possible improvements
